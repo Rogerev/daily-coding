@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rogerev/daily-coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Rogerev/daily-coding/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
