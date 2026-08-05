@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rogerev/daily-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rogerev/daily-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rogerev/daily-coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Rogerev/daily-coding/tree/master/3731-find-missing-elements) |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
 | ------- |
