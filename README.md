@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rogerev/daily-coding/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rogerev/daily-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rogerev/daily-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Rogerev/daily-coding/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rogerev/daily-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rogerev/daily-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rogerev/daily-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rogerev/daily-coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rogerev/daily-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
