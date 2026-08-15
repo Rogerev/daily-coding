@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rogerev/daily-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rogerev/daily-coding/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rogerev/daily-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Rogerev/daily-coding/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rogerev/daily-coding/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rogerev/daily-coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rogerev/daily-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Rogerev/daily-coding/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -153,6 +155,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rogerev/daily-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rogerev/daily-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rogerev/daily-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rogerev/daily-coding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
