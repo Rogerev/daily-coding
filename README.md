@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rogerev/daily-coding/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rogerev/daily-coding/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rogerev/daily-coding/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
