@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Rogerev/daily-coding/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rogerev/daily-coding/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Queue
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rogerev/daily-coding/tree/master/0918-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
