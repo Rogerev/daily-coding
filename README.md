@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rogerev/daily-coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Rogerev/daily-coding/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
