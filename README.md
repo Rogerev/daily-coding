@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Rogerev/daily-coding/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rogerev/daily-coding/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rogerev/daily-coding/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rogerev/daily-coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Sliding Window
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Queue
 |  |
