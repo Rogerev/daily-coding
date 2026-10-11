@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Rogerev/daily-coding/tree/master/0072-edit-distance) |
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Rogerev/daily-coding/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Rogerev/daily-coding/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rogerev/daily-coding/tree/master/0918-maximum-sum-circular-subarray) |
