@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rogerev/daily-coding/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rogerev/daily-coding/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rogerev/daily-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Rogerev/daily-coding/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rogerev/daily-coding/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rogerev/daily-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rogerev/daily-coding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rogerev/daily-coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rogerev/daily-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Rogerev/daily-coding/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rogerev/daily-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rogerev/daily-coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rogerev/daily-coding/tree/master/0202-happy-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rogerev/daily-coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rogerev/daily-coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -311,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rogerev/daily-coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
