@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Rogerev/daily-coding/tree/master/0072-edit-distance) |
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rogerev/daily-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rogerev/daily-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Sliding Window
