@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rogerev/daily-coding/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Rogerev/daily-coding/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rogerev/daily-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rogerev/daily-coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rogerev/daily-coding/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/Rogerev/daily-coding/tree/master/2409-count-days-spent-together) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Rogerev/daily-coding/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rogerev/daily-coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rogerev/daily-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
