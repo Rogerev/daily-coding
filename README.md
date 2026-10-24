@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rogerev/daily-coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rogerev/daily-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Rogerev/daily-coding/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Rogerev/daily-coding/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rogerev/daily-coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rogerev/daily-coding/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rogerev/daily-coding/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Rogerev/daily-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Rogerev/daily-coding/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rogerev/daily-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rogerev/daily-coding/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rogerev/daily-coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
