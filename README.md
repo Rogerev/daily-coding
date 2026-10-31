@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rogerev/daily-coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rogerev/daily-coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rogerev/daily-coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Rogerev/daily-coding/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rogerev/daily-coding/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rogerev/daily-coding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rogerev/daily-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rogerev/daily-coding/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rogerev/daily-coding/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3665-twisted-mirror-path-count](https://github.com/Rogerev/daily-coding/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rogerev/daily-coding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rogerev/daily-coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Rogerev/daily-coding/tree/master/3665-twisted-mirror-path-count) |
 ## Database
 |  |
 | ------- |
