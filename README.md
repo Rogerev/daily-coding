@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rogerev/daily-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Rogerev/daily-coding/tree/master/1927-sum-game) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rogerev/daily-coding/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rogerev/daily-coding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Rogerev/daily-coding/tree/master/2409-count-days-spent-together) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Rogerev/daily-coding/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rogerev/daily-coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rogerev/daily-coding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rogerev/daily-coding/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
