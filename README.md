@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Rogerev/daily-coding/tree/master/2409-count-days-spent-together) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Rogerev/daily-coding/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rogerev/daily-coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rogerev/daily-coding/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rogerev/daily-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rogerev/daily-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rogerev/daily-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rogerev/daily-coding/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rogerev/daily-coding/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rogerev/daily-coding/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/Rogerev/daily-coding/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Rogerev/daily-coding/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rogerev/daily-coding/tree/master/0876-middle-of-the-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rogerev/daily-coding/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
