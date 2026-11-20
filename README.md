@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rogerev/daily-coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Rogerev/daily-coding/tree/master/0072-edit-distance) |
 | [0940-distinct-subsequences-ii](https://github.com/Rogerev/daily-coding/tree/master/0940-distinct-subsequences-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rogerev/daily-coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rogerev/daily-coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rogerev/daily-coding/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Rogerev/daily-coding/tree/master/0072-edit-distance) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rogerev/daily-coding/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rogerev/daily-coding/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Rogerev/daily-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rogerev/daily-coding/tree/master/0142-linked-list-cycle-ii) |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rogerev/daily-coding/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rogerev/daily-coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
