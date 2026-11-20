@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rogerev/daily-coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rogerev/daily-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rogerev/daily-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rogerev/daily-coding/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rogerev/daily-coding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rogerev/daily-coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rogerev/daily-coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rogerev/daily-coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rogerev/daily-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rogerev/daily-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rogerev/daily-coding/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rogerev/daily-coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rogerev/daily-coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rogerev/daily-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Rogerev/daily-coding/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rogerev/daily-coding/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rogerev/daily-coding/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Rogerev/daily-coding/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/Rogerev/daily-coding/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
